@@ -1,6 +1,5 @@
-#include <iostream>
-#include <vector>
-#include <algorithm>
+#include <bits/stdc++.h>
+#define ll long long
 using namespace std;
 
 const int MAX_A = 1000000;
